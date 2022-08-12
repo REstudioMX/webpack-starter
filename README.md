@@ -3,7 +3,7 @@
 - Proyecto inicial para crear aplicaciones usando **webpack**.
 
 ### Notas:
-- Es neecsario reconstruir los módulos de Node:
+- Es necesario reconstruir los módulos de Node:
 
 ```
 npm isntall
@@ -12,5 +12,5 @@ npm isntall
 - Reconstruir el `build`
 
 ```
-npñm run build
+npm run build
 ```
